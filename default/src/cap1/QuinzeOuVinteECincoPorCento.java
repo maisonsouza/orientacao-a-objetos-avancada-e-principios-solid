@@ -1,3 +1,5 @@
+package cap1;
+
 public class QuinzeOuVinteECincoPorCento implements RegraDeCalculo  {
     public double calcula(Funcionario funcionario) {
         if(funcionario.getSalarioBase() > 2000.0) {

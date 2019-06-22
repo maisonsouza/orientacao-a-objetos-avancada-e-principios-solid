@@ -1,3 +1,5 @@
+package cap1;
+
 public enum Cargo {
 	DESENVOLVEDOR(new DezOuVintePorcento()),
 	DBA(new QuinzeOuVintePorcento()),
