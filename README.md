@@ -35,7 +35,7 @@ Pré-requisitos: Tecnologia em Orientação a objetos
 * As classes clientes não devem conhecer a implementação.
 * Lei de Demeter - Ganhar encapsulamento.
 
-### Herança, COmposição e Liskov Substitute Principle
+### Herança, Composição e Liskov Substitute Principle
 * Principio de Substituição de Liskov
 * Pré condições das classes filhas não podem ser muito restritas.
 * Pós condições das classes filhas não podem ser muito irrestritas.
